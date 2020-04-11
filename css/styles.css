@@ -9,6 +9,12 @@
     margin: 100px;
     font-size: 60px;
 }
+.info {
+    border: 15px;
+    padding: 40px;
+    margin: 100px;
+    text-align: center;
+}
 .services {
     background-image: url(images/s_image.jpg);
     text-align: center;
