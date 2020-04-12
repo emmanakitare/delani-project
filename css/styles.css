@@ -37,3 +37,13 @@
     padding: 40px;
     margin: 100px;
 }
+.form-group {
+    font-size: 40px;
+}
+.images {
+    text-align: center;
+    font-size: 40px;
+    border: 20px;
+    padding: 50px; 
+    margin: 100px;
+}
