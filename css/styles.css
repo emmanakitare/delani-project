@@ -56,3 +56,7 @@
 #para2 {
     display: none;
 }
+.img {
+    box-sizing: border-box solid;
+    color: white;
+}
