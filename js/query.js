@@ -27,5 +27,7 @@ $(document).ready(function(){
 
 
 $(document).ready(function(){
+    $("#img").hover(function(){
 
+    })
 })
