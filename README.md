@@ -16,8 +16,8 @@ JQUERY
 JAVASCRIPT
 BOOTSTRAP
 ## Support and contact details
-![](emmanakitare10@gmail.com)
+(emmanakitare10@gmail.com)
 ### License
 *MIT License*
-Copyright (c) 2020 **{List of contributors or company name}**
+Copyright (c) 2020 
   
