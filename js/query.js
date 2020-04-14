@@ -30,8 +30,10 @@ $(document).ready(function(){
     $("#img").hover(function(){
 
     })
-    function
-})
+    function(){
+
+    }
+});
 
 
 var name, email, message;
