@@ -1,7 +1,7 @@
 # DELANI STUDIO
 #### By **Emmanuel Nakitare**
-### Screenshot
-![](css/image/screenshot.png)
+## Screenshot
+![](css/images/screenshot.png)
 ## Description
 Delani studio is a great application that allows different developers to work together on various projects. It enables a user share their business goals and get assistance in coding from a well-updated team.
 ## Setup/Installation Requirements
