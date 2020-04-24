@@ -28,11 +28,10 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#img").hover(function(){
-
-    })
-    function(){
-
-    }
+        $(this).css("border-style", "solid");
+        }, function(){
+        $(this).css("border-style", "none");
+    });
 });
 
 

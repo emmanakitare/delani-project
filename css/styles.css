@@ -33,9 +33,9 @@
     background-size: cover;
     text-align: center;
     font-size: 60px;
-    border: 15px;
-    padding: 40px;
-    margin: 100px;
+    
+    
+    margin: 80px;
 }
 .form-group {
     font-size: 40px;
@@ -56,7 +56,8 @@
 #para2 {
     display: none;
 }
-.img {
+#img {
     box-sizing: border-box solid;
-    color: white;
+    
+    border-style: solid;
 }
